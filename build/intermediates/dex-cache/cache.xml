@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\f880b5e35ca6cfa8ecc1c4ed1bd1ef7b4d9d8808\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dbf8613bfc2e2107597e30db222cea8831e04a99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\6caa00f43f5afed0a5a333e65a98899f95fec574\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bcf306931f6539289ca75e262f5565287d3df2a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3de8a9cbceaae46b1b404f385bea6ba0fffd7a14">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2a6f34a06f864bb912407ebe7b3bb8e507e1b47f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\b1dfa15af80f19a763651147703992f969efca49\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_54ebedb842c07e86bd73e144f0e25d98b8320053\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.8.1_ee730cade58afbae794e9695f514521e5a885ce3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\bfa5ddb83a15b4c42f738b9cf469f1370fe3caaa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_385c26d4209e001203180070cfe4d25dabfa6c16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\0463b09a8cb111322b713bc1218e74bd3c6d5dbb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_133895c303c7b4b8835773a438fcfe3321f20d07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_67cae09cd60bfb04e28514a17c5af3bec1e385cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_6e895654f2be9651e5f89d8c70f66332669b736c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\5bc9ade570649a34af9c189eb203b28ba21d97de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ea3b824b3adca97aa8fe882c0ef4a8707b05b00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\5f9d927231c694287b1ebed65662d8fd233c230f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b37e53f3ad3faf615657f307908e96b0a53f744\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\afbdc8e1e8bc11480be58779f5778457ae928b4c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb5f7647d1f6583d3bdff529e219d889b4978d58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\396c2fa5ff94d12871d2dc87329db7483e60a902\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_44c6a289eb11815ab542cac69f2d14a64317c38f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\04f8c90d123086553b188508a807ed231a157644\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0c7c2ce9a09ad8b8ab4fdd8a5af16440f57780e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\4ca5ad27707bdba29a057c65d10731334aa438e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bc9585a13d1c4fde24c14c6f54df417c05d1f2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\a9503d86a3526fd76e91098f2236c946b1c7b105\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4da71cfb308cc7bfbc19f29d4146627b0cf6227\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_de4a646ca453efd53589557820cfff55482253f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\02a4c23b36696f7462700febeda85e0f6d640f08\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ffdf64d75dc644b3afde70a63f0fd2c9994a3c19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\aa7d733c1e8ff9a334e37e973f863e129965e16e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a7bbb52d22eb693c6ba70dd83f5502840e29c72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\e94bfd2625f174079e37e9782bd7023aeec0bdf6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0057e24c822f89588960369440a1efc50ea696bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\4619c3579ad488907dfafc39918968e13386ade6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="D:\Linux\AndroidStudioProjects\LeafPile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_317737963644a15cb863ed4b9bf5394f4f0a0ac2\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_padding"
+    tools:context="com.leafpile.leafpile.Activity.ProductDetailActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@color/aluminum"
+            android:layout_gravity="center_horizontal"/>
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="2"
+            android:padding="@dimen/activity_padding">
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:text="Nama Produk"
+                style="@style/ContentText"/>
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:id="@+id/pda_output_name"
+                style="@style/ContentText"/>
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:text="Nama Penjual"
+                style="@style/ContentText"/>
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:id="@+id/pda_output_seller"
+                style="@style/ContentText"/>
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:text="Harga Produk"
+                style="@style/ContentText"/>
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:id="@+id/pda_output_price"
+                style="@style/ContentText"/>
+
+        </GridLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/ButtonStyle"
+            android:text="PESAN"
+            android:id="@+id/pda_order_button"/>
+
+    </LinearLayout>
+
+</ScrollView>

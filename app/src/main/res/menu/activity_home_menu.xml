@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_main_menu"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Main Menu" />
+        <item
+            android:id="@+id/nav_fruit"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Buah" />
+        <item
+            android:id="@+id/nav_vegetable"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Sayur" />
+        <item
+            android:id="@+id/nav_rice"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Beras" />
+        <item
+            android:id="@+id/nav_seasoning"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Bumbu Dapur" />
+        <item
+            android:id="@+id/nav_meat"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Daging" />
+    </group>
+
+    <item android:title="Menu Penjual">
+        <menu>
+            <item
+                android:id="@+id/nav_manual"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Jadi Penjual" />
+            <item
+                android:id="@+id/nav_my_product"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Dagangan Saya" />
+            <item
+                android:id="@+id/nav_po"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Pesanan" />
+        </menu>
+    </item>
+
+    <item android:title="Pilihan">
+        <menu>
+            <item
+                android:id="@+id/nav_profile"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Profil Saya" />
+            <item
+                android:id="@+id/nav_cart"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Keranjang Belanja" />
+            <item
+                android:id="@+id/nav_history"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Riwayat Transaksi" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Keluar" />
+        </menu>
+    </item>
+
+</menu>

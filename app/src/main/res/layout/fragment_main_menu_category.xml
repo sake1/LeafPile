@@ -15,6 +15,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="Sayur"
+                    android:id="@+id/fmm_trigger_vegetable"
                     android:layout_gravity="center"
                     style="@style/ButtonStyle"/>
                 <Button
@@ -22,6 +23,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="Buah"
+                    android:id="@+id/fmm_trigger_fruit"
                     android:layout_gravity="center"
                     style="@style/ButtonStyle"/>
                 <Button
@@ -29,6 +31,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="Beras"
+                    android:id="@+id/fmm_trigger_rice"
                     android:layout_gravity="center"
                     style="@style/ButtonStyle"/>
 
@@ -44,6 +47,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="Bumbu Dapur"
+                    android:id="@+id/fmm_trigger_seasoning"
                     android:layout_gravity="center"
                     style="@style/ButtonStyle"/>
                 <Button
@@ -51,6 +55,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="Daging"
+                    android:id="@+id/fmm_trigger_meat"
                     android:layout_gravity="center"
                     style="@style/ButtonStyle"/>
 

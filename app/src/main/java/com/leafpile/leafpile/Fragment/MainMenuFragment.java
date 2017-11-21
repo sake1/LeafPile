@@ -11,14 +11,17 @@ import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import com.leafpile.leafpile.Activity.HomeActivity;
 import com.leafpile.leafpile.Model.Product;
 import com.leafpile.leafpile.R;
 import com.leafpile.leafpile.ArrayAdapter.ProductArrayAdapter;
+import com.leafpile.leafpile.Utils.HardcodedVariable;
 
 import java.util.ArrayList;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
+import butterknife.OnClick;
 
 public class MainMenuFragment extends Fragment {
 
@@ -33,6 +36,52 @@ public class MainMenuFragment extends Fragment {
     public MainMenuFragment() {
         // Required empty public constructor
         productData = new ArrayList<>();
+    }
+
+
+    @OnClick(R.id.fmm_trigger_fruit)
+    public void fruit() {
+        Bundle bundle = new Bundle();
+        bundle.putString("title", HardcodedVariable.FRUIT_TITLE);
+        QueriedSearchFragment queriedSearchFragment = new QueriedSearchFragment();
+        queriedSearchFragment.setArguments(bundle);
+        ((HomeActivity) getActivity()).changeHomeActivityDisplayedFragment(queriedSearchFragment, true);
+    }
+
+    @OnClick(R.id.fmm_trigger_vegetable)
+    public void vegetable() {
+        Bundle bundle = new Bundle();
+        bundle.putString("title", HardcodedVariable.VEGETABLE_TITLE);
+        QueriedSearchFragment queriedSearchFragment = new QueriedSearchFragment();
+        queriedSearchFragment.setArguments(bundle);
+        ((HomeActivity) getActivity()).changeHomeActivityDisplayedFragment(queriedSearchFragment, true);
+    }
+
+    @OnClick(R.id.fmm_trigger_rice)
+    public void rice() {
+        Bundle bundle = new Bundle();
+        bundle.putString("title", HardcodedVariable.RICE_TITLE);
+        QueriedSearchFragment queriedSearchFragment = new QueriedSearchFragment();
+        queriedSearchFragment.setArguments(bundle);
+        ((HomeActivity) getActivity()).changeHomeActivityDisplayedFragment(queriedSearchFragment, true);
+    }
+
+    @OnClick(R.id.fmm_trigger_seasoning)
+    public void seasoning() {
+        Bundle bundle = new Bundle();
+        bundle.putString("title", HardcodedVariable.SEASONING_TITLE);
+        QueriedSearchFragment queriedSearchFragment = new QueriedSearchFragment();
+        queriedSearchFragment.setArguments(bundle);
+        ((HomeActivity) getActivity()).changeHomeActivityDisplayedFragment(queriedSearchFragment, true);
+    }
+
+    @OnClick(R.id.fmm_trigger_meat)
+    public void meat() {
+        Bundle bundle = new Bundle();
+        bundle.putString("title", HardcodedVariable.MEAT_TITLE);
+        QueriedSearchFragment queriedSearchFragment = new QueriedSearchFragment();
+        queriedSearchFragment.setArguments(bundle);
+        ((HomeActivity) getActivity()).changeHomeActivityDisplayedFragment(queriedSearchFragment, true);
     }
 
     @Override

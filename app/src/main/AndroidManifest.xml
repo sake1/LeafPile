@@ -35,7 +35,8 @@
         <activity android:name=".Activity.ProfileActivity" />
         <activity android:name=".Activity.ProductDetailActivity" />
         <activity android:name=".Activity.TransactionHistoryActivity" />
-        <activity android:name=".Activity.CartActivity"></activity>
+        <activity android:name=".Activity.CartActivity" />
+        <activity android:name=".Activity.BecomeSellerActivity"></activity>
     </application>
 
 </manifest>

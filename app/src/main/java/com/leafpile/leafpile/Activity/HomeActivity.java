@@ -21,6 +21,8 @@ import com.leafpile.leafpile.Fragment.QueriedSearchFragment;
 import com.leafpile.leafpile.R;
 import com.leafpile.leafpile.Utils.HardcodedVariable;
 
+import butterknife.BindView;
+
 public class HomeActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
     @Override
@@ -98,6 +100,7 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
             queriedSearchFragment.setArguments(bundle);
             changeHomeActivityDisplayedFragment(queriedSearchFragment, true);
         } else if (id == R.id.nav_manual) {
+            startActivity(new Intent(HomeActivity.this, BecomeSellerActivity.class));
         } else if (id == R.id.nav_my_product) {
         } else if (id == R.id.nav_po) {
         } else if (id == R.id.nav_profile) {
